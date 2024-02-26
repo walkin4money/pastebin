@@ -1,0 +1,1 @@
+A messaging service analogous to the popular pastebin service, written on Spring framework (Spring Core, Spring Boot, Spring Data Jpa, Spring Web MVC, Spring Security, Hebirnate, Flyway, Lombok), JDK 17, PostgreSQL, Docker and Maven. Also, authorization via access_token (JWT) and refresh_token is implemented in this project.
